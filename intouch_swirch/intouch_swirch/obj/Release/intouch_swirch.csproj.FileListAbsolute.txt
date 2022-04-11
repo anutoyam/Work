@@ -1,0 +1,25 @@
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.exe.config
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.exe
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.pdb
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.Form1.resources
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.Properties.Resources.resources
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.csproj.GenerateResource.Cache
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.exe
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.pdb
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.csprojResolveAssemblyReference.cache
+C:\Users\MH\Desktop\원자력_intouch switch (2)\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.exe.config
+C:\Users\MH\Desktop\원자력_intouch switch (2)\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.exe
+C:\Users\MH\Desktop\원자력_intouch switch (2)\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.pdb
+C:\Users\MH\Desktop\git\workbench\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.exe.config
+C:\Users\MH\Desktop\git\workbench\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.exe
+C:\Users\MH\Desktop\git\workbench\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.pdb
+C:\Users\MH\Desktop\새 폴더\workbench-master\workbench-master\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.exe.config
+C:\Users\MH\Desktop\새 폴더\workbench-master\workbench-master\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.exe
+C:\Users\MH\Desktop\새 폴더\workbench-master\workbench-master\intouch_swirch\intouch_swirch\bin\Release\intouch_swirch.pdb
+C:\Users\MH\Desktop\새 폴더\workbench-master\workbench-master\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.csprojAssemblyReference.cache
+C:\Users\MH\Desktop\새 폴더\workbench-master\workbench-master\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.Form1.resources
+C:\Users\MH\Desktop\새 폴더\workbench-master\workbench-master\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.Properties.Resources.resources
+C:\Users\MH\Desktop\새 폴더\workbench-master\workbench-master\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.csproj.GenerateResource.cache
+C:\Users\MH\Desktop\새 폴더\workbench-master\workbench-master\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.csproj.CoreCompileInputs.cache
+C:\Users\MH\Desktop\새 폴더\workbench-master\workbench-master\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.exe
+C:\Users\MH\Desktop\새 폴더\workbench-master\workbench-master\intouch_swirch\intouch_swirch\obj\Release\intouch_swirch.pdb

@@ -1,0 +1,13 @@
+C:\Users\MH\Desktop\charbus\charbus\bin\Release\charbus.exe.config
+C:\Users\MH\Desktop\charbus\charbus\bin\Release\charbus.exe
+C:\Users\MH\Desktop\charbus\charbus\bin\Release\charbus.pdb
+C:\Users\MH\Desktop\charbus\charbus\bin\Release\EasyModbus.dll
+C:\Users\MH\Desktop\charbus\charbus\bin\Release\ZedGraph.dll
+C:\Users\MH\Desktop\charbus\charbus\bin\Release\EasyModbus.xml
+C:\Users\MH\Desktop\charbus\charbus\obj\Release\charbus.Form1.resources
+C:\Users\MH\Desktop\charbus\charbus\obj\Release\charbus.Properties.Resources.resources
+C:\Users\MH\Desktop\charbus\charbus\obj\Release\charbus.csproj.GenerateResource.cache
+C:\Users\MH\Desktop\charbus\charbus\obj\Release\charbus.csproj.CoreCompileInputs.cache
+C:\Users\MH\Desktop\charbus\charbus\obj\Release\charbus.csproj.CopyComplete
+C:\Users\MH\Desktop\charbus\charbus\obj\Release\charbus.exe
+C:\Users\MH\Desktop\charbus\charbus\obj\Release\charbus.pdb

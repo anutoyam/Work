@@ -1,0 +1,9 @@
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\bin\Debug\intouch_swirch.exe.config
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\bin\Debug\intouch_swirch.exe
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\bin\Debug\intouch_swirch.pdb
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Debug\intouch_swirch.csprojResolveAssemblyReference.cache
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Debug\intouch_swirch.Form1.resources
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Debug\intouch_swirch.Properties.Resources.resources
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Debug\intouch_swirch.csproj.GenerateResource.Cache
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Debug\intouch_swirch.exe
+C:\Users\Nam\Desktop\intouch_swirch\intouch_swirch\obj\Debug\intouch_swirch.pdb
